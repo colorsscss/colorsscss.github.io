@@ -1,3 +1,20 @@
+/*base*/
+.whiteb {
+	background: #ffffff;
+}
+
+.blackb {
+	background: #000000;
+}
+
+.whitetext {
+	color: #ffffff;
+}
+
+.blacktext {
+	color: #000000;
+}
+
 /*red background*/
 .redb10 {
 	background: #ffe6e6;
